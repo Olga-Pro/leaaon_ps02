@@ -1,4 +1,4 @@
-# leaaon_ps02
+# lesson_ps02
 
 requests
 # Задание 1: Получение данных
